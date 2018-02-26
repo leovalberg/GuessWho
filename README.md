@@ -4,7 +4,7 @@ Teaching a seven year old the problem with being an optimist
 
 Using Monte Carlo and Decision Trees
 
-## Spoiler Alert
+## Spoiler alert
 
 ![](images/hth3.png?raw=true)
 
@@ -60,9 +60,9 @@ We then ran 1000 simulations for each strategy.
 
 We didn’t include all possible questions but had enough so that each card had a unique solution. 
 
-I won’t go into any details here about the relative frequency of blonde hair to brown hair, there are other blogs (ADD LINK) that do this. And as it turns out there are many different versions of the game with different characters.
+I won’t go into any details here about the relative frequency of blonde hair to brown hair, there are other [blogs](http://chalkdustmagazine.com/blog/cracking-guess-board-game/) that do this. And as it turns out there are many different versions of the game with different characters.
 
-With the questions we had, all cards could be guessed with two or three questions. We did not include the possibility of asking more complicated questions such as “do they have brown hair OR wearing earings”. This is covered here (ADD LINK).
+With the questions we had, all cards could be guessed with two or three questions. We did not include the possibility of asking more complicated questions such as “do they have brown hair OR wearing earings”. This is covered [here](https://lifehacker.com/almost-always-win-the-game-guess-who-with-this-math-bas-1743859796).
 
 
 
