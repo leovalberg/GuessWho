@@ -18,7 +18,6 @@ I thought this would be a good opportunity to teach him a bit of coding and an i
 ## The rules
 
 ![](images/guesswho.png?raw=true)
-[image source](http://growthintel.com/guess-who/)
 
 If you don’t already know:
 
