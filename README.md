@@ -76,7 +76,7 @@ You can see there is a clear advantage to playing it safe. On average guessing w
 
 Because we have cross correlations between the questions e.g., all bald cards are men, the number of turns to guess who is less than we would expect from purely uncorrelated questions. In the uncorrelated case we would expect around 15 turns to guess who (see the notebook for more details).
 
-However we also see that the safe approach never gets a really quick win in 2 or three turns, the way the random approach does.
+**However we also see that the safe approach never gets a really quick win in 2 or three turns, the way the random approach does.**
 
 
 
