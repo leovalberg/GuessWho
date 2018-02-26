@@ -82,7 +82,7 @@ Because we have cross correlations between the questions e.g., all bald cards ar
 
 ## Decision Tree Classifier
 
-The problem with the simple and safe approach is that is does not think ahead. But thinking ahead requires comparing 10 of thousands of different possible combinations of questions and the best question to ask next will depend on the previous answers.
+The problem with the simple and safe approach is that is does not think ahead. But thinking ahead requires comparing tens of thousands of different possible combinations of questions and the best question to ask next will depend on the previous answers.
 
 A defined order of questions and what question to ask next depending on the previous answers is called a decision tree.
 
